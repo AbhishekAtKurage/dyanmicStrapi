@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_resturants_menues",
+  "info": {
+    "displayName": "Menue",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "itemName": {
+      "type": "string"
+    },
+    "itemPrice": {
+      "type": "string"
+    },
+    "xx": {
+      "type": "integer"
+    }
+  }
+}

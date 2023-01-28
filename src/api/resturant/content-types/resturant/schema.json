@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "resturants",
+  "info": {
+    "singularName": "resturant",
+    "pluralName": "resturants",
+    "displayName": "Resturant",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Menu": {
+      "type": "dynamiczone",
+      "components": [
+        "resturants.menue",
+        "resturants.review",
+        "resturants.categorey"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_resturants_categoreys",
+  "info": {
+    "displayName": "categorey"
+  },
+  "options": {},
+  "attributes": {
+    "categoreyName": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_resturants_reviews",
+  "info": {
+    "displayName": "Review"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "messages": {
+      "type": "string"
+    }
+  }
+}
